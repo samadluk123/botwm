@@ -1,0 +1,2 @@
+node bots
+pause
